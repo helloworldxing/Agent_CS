@@ -1,0 +1,15 @@
+# ignore venv
+.venv/
+
+# 文本
+*.text
+
+# 日志*.log
+*.log
+
+# __pycache__文件夹
+**/__pycache__/**
+
+# .idea .vscode 文件夹
+.idea/
+.vscode/
