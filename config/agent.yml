@@ -1,1 +1,3 @@
 external_data_path: data/external/records.csv
+# 本地 Ollama 模型名称（可为空表示使用默认 Ollama 行为）
+ollama_model: "qwen3:4b"
